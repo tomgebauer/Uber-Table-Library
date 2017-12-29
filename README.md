@@ -14,7 +14,7 @@
 ## Installation
 This file will only work in Sketch. 
 * Open sketch preferences and click on "Libraries"
-[<img src="./Assets/libraries_screen.png">]
+<img src="./Assets/libraries_screen.png">
 
 ## Features
 * Feature 1
