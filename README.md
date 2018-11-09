@@ -1,4 +1,4 @@
-<img src="./Assets/readme_header_.png">
+<img src="./Assets/readme_header.png">
 
 <br />
 
