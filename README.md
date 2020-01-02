@@ -1,4 +1,4 @@
-<img src="./Assets/readme_header_.png">
+<img src="./Assets/readme_header.png">
 
 <br />
 
@@ -30,4 +30,4 @@ This file will only work in Sketch.
 2. Adding new colors and border weights is easy. Just add another width to the symbol set and update the master border controls to reflect the new widths.
 
 ## Coming soon
-I'm workin gon another version of this format that uses excluslively shadow controls. We'll see if the performance of this is a bit faster. 
+I'm working on another version of this format that uses excluslively shadow controls. We'll see if the performance of this is a bit faster. 
